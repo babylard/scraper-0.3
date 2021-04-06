@@ -4,7 +4,8 @@
  tested yet. if there is an issue with the installer
  email me about it at babylard1@protonmail.com
  there is now infection of some important directories
- in windows.
+ in windows. also sorry im not very organized with my builds,
+ i didnt see that "release new build" button :,D
  
  # Warning
 this is REAL malware and will damage your system, you should only run this in a VM (virtual machine) unless you just want to demolish your system for some reason, the best virtualization software right now is Virtualbox, you can download Virtualbox at https://www.virtualbox.com/wiki/downloads microsoft has a free iso file of windows 10 you can run in virtualbox.
